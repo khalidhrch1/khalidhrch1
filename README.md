@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Khalid 👋
 
-<!--
-**khalidhrch1/khalidhrch1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Digital Infrastructure & Network Engineering Student
 
-Here are some ideas to get you started:
+I'm a networking and systems student from Morocco 🇲🇦.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## 🌐 Networking
+
+- Cisco CCNA 200-301
+- VLANs
+- OSPF
+- MPLS
+- DHCP
+- DNS
+- NAT
+- ACLs
+
+## 🧪 Labs
+
+- GNS3
+- EVE-NG
+- Cisco Packet Tracer
+- Wireshark
 -->
